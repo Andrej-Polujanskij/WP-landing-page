@@ -1,0 +1,15 @@
+// Convert your font using https://transfonter.org/, copy the generated @font-faces here and adjust the paths;
+
+//@font-face {
+//    font-family: 'Covered By Your Grace';
+//    src: url('../../fonts/CoveredByYourGrace.eot');
+//    src: url('../../fonts/CoveredByYourGrace.eot?#iefix') format('embedded-opentype'),
+//    url('../../fonts/CoveredByYourGrace.woff2') format('woff2'),
+//    url('../../fonts/CoveredByYourGrace.woff') format('woff'),
+//    url('../../fonts/CoveredByYourGrace.ttf') format('truetype');
+//    font-weight: normal;
+//    font-style: normal;
+//}
+//
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,600,700');
+$font: 'Roboto', sans-serif;
